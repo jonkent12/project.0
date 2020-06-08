@@ -16,6 +16,6 @@
 }
 
 .category {
-  @extend %message
-  font-family: cursive; 
+  @extend %message;
+  font-family: cursive;
 }

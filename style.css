@@ -1,3 +1,15 @@
+.category td {
+  color: grey;
+}
+.category div th {
+  font-size: 25px;
+}
+.category div td {
+  font-size: 15px;
+}
 
+.category {
+  font-family: cursive;
+}
 
 /*# sourceMappingURL=style.css.map */
