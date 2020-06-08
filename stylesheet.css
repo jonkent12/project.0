@@ -1,0 +1,35 @@
+#title {
+  text-align: center;
+  font-size: 51px;
+  color: blue;
+  background-color: red;
+  margin: auto auto 40px auto;
+}
+
+h3 {
+  text-align: center;
+  margin: 40px auto auto auto;
+}
+
+img {
+  display: block;
+  margin: 50px auto;
+  border: 4px black
+
+}
+.links {
+  text-align: center;
+  padding: 0px
+}
+a {
+  color: black
+}
+@media (min-width: 600px) {
+ body {
+     background-color: beige;
+ }
+ }
+ @media (max-width: 599px) {
+ body {
+     background-color: #52764e;
+ }
