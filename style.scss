@@ -1,0 +1,25 @@
+%message {
+  $color: grey;
+
+  td {
+    color: $color
+  }
+
+  div {
+    th {
+      font-size: 25px
+        }
+    td {
+      font-size: 15px
+      }
+  }
+}
+
+.category {
+  @extend %message
+}
+
+.subject {
+  @extend %message
+  font-family: serif;
+}
