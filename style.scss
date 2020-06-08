@@ -17,9 +17,5 @@
 
 .category {
   @extend %message
-}
-
-.subject {
-  @extend %message
-  font-family: serif;
+  font-family: cursive; 
 }
